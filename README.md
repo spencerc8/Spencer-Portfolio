@@ -1,12 +1,8 @@
 # Spencer-Portfolio
 
 
-Your full name and a brief introduction about yourself.
+My name is Spencer and I'm currently attending Ivy Tech for a TC in IT Support. I like to watch movies, read, hangout with my girlfriend, spend time in nature, and play video games. I currently dont't have any degrees at the moment but I hope that will change with Ivy Tech. I have a little bit of IT knowledge from studying for the Comptia A+ certification which I have completed one of the two tests that make up the entire certification as well as some experience and skills I learned from doing a little bit of IT help desk work.
 
-My name is Spencer and I'm currently attending Ivy Tech for a TC in IT Support.
-Your educational background and any relevant skills/certifications.
-Links to your personal website or portfolio (if applicable).
-A list of programming languages, technologies, or frameworks you're proficient in.
-Links to any open-source projects you have contributed to (even if small).
-Optional sections: You can include sections like "Projects in Progress," "Research Interests," or "Contact Information."
-Deliverables/Submission:
+I currently do not have any prior knowledge of computer languages or frameworks but I'm finding it fun to learn in my software development course. Knowledge of technologies I have are of Windows environments and some Windows Active directory as well as PC hardware.
+
+I do not have any experience with open-source projects in the past but I am willing to learn and contribute to one.
