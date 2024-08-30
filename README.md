@@ -5,4 +5,9 @@ My name is Spencer Croll and I'm currently attending Ivy Tech for a TC in IT Sup
 
 I currently do not have any prior knowledge of computer languages or frameworks but I'm finding it fun to learn in my software development course and am excited to say I know some Python as the year progresses. Knowledge of technologies I have are of Windows environments and some Windows Active directory as well as PC hardware.
 
-I do not have any experience with open-source projects in the past but I am willing and excited to learn and contribute to some in the future..
+I do not have any experience with open-source projects in the past but I am willing and excited to learn and contribute to some in the future.
+
+
+LinkedIn Profile Link:
+www.linkedin.com/in/spencer-croll-814b66235
+
